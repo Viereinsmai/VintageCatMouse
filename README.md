@@ -6,6 +6,7 @@ VintageCat — 复古猫的 macOS 鼠标光标主题，适用于 Mousecape。 / 
 > A vintage cat-themed cursor theme for macOS, made with Mousecape.
 
 ![VintageCat 预览](preview.png)
+![VintageCat 预览](preview2.png)
 
 
 ## 简介
@@ -52,6 +53,7 @@ VintageCat 是一套为 macOS 制作的鼠标光标主题，使用 [Mousecape](h
 3. 右键点击 **VintageCat**；
 4. 选择 **Apply**；
 5. 如果光标没有立即变化，尝试注销并重新登录，或重启 Mac。
+![VintageCat 预览](Apply.png)
 
 ### 5. 恢复默认光标
 
