@@ -16,7 +16,7 @@ VintageCat 是一套为 macOS 制作的鼠标光标主题，使用 [Mousecape](h
 ## 特性
 
 - 复古猫风格光标
-- 适用于 macOS + Mousecape （Windows可以自行下载mousecape使用）
+- 适用于 macOS + Mousecape 
 - 以 `.cape` 文件分发，导入方便
 - 可随时在 Mousecape 中切换或恢复默认光标
 
